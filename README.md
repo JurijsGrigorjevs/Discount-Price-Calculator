@@ -1,4 +1,4 @@
-# Discount-Price-Calculator
+# Discount Price Calculator
 
 Shopping during the sales can sometimes be very confusing. With discounted prices at 10%, 20%, 50% or even 70%!
 
